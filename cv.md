@@ -11,4 +11,28 @@
 
 **E-mail:** artsem.valasiuk@gmail.com
 
-**Telegram:** @hannavoloshyna
+**Telegram:** @avolosuk
+
+**LinkedIn:** [Artsem Valasiuk page](https://www.linkedin.com/in/artsem-valasiuk-549602265/)
+
+---
+
+### **About Me:**
+
+I have started my career as SAP ABAP developer in 2008. 
+
+---
+
+### **Skills:**
+
+- ABAP
+
+  - Functional modules
+    
+- Streamserve / Exstream
+  
+  - 
+
+---
+
+### **Code example:**
